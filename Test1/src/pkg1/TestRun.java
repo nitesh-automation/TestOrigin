@@ -6,5 +6,4 @@ public class TestRun {
 		System.out.println("Added after Git installation");
 		System.out.println("Added after initial commit");
 	}
-
 }
